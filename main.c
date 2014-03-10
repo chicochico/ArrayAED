@@ -7,6 +7,8 @@
 
 //change 1
 //change 2
+//cahnge 3
+//change 4
 
 #include <stdio.h>
 
@@ -26,5 +28,6 @@ int main() {
 	int array[] = {4,1,2,3};
 	int length = sizeof(array)/sizeof(int);
 	printf("%d", arrayMax(array, length));
+	printf("asdfasdfa");
 	return 0;
 }
