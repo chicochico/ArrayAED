@@ -5,11 +5,6 @@
  *      Author: Francisco
  */
 
-//change 1
-//change 2
-//cahnge 3
-//change 4
-//change 5
 
 #include <stdio.h>
 
@@ -24,6 +19,7 @@ int arrayMax(int *array, int lenght) {
 
 	return maxIndex;
 }
+
 
 int main() {
 	int array[] = {4,1,2,3};
