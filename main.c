@@ -5,7 +5,6 @@
  *      Author: Francisco
  */
 
-
 #include <stdio.h>
 
 int arrayMax(int *array, int lenght) {
